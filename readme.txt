@@ -17,5 +17,5 @@ $ git diff = to view in console, the changes made in files
    en la consola de git
 $ git commit -m "<comment>" = es la función de $ git commit resumida para no entrar
   en el otro editor de código
-$ git branch = para ver o crear una nueva carpeta
- 
+$ git branch = para ver o crear una nueva carpeta (tal vez para simular
+  el proyecto sin dañar cambiso anteriores)
