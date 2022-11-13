@@ -20,3 +20,5 @@ $ git commit -m "<comment>" = es la función de $ git commit resumida para no en
 $ git branch = para ver o crear una nueva carpeta (tal vez para simular
   el proyecto sin dañar cambios anteriores)
 $ push origin <originnamefolder> = para cargar lo guardado a a github.
+
+test
